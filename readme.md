@@ -1,6 +1,6 @@
 ## **Laravel School Management System** 
 
-**Laravel-SMS** is developed for educational institutions like schools and colleges built on Laravel 8
+**Laravel-SMS** is developed for educational institutions like schools and colleges and is built on Laravel 8
 
 **SCREENSHOTS** 
 
